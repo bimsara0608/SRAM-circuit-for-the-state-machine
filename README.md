@@ -1,1 +1,1 @@
-# SRAM-circuit-for-the-state-machine
+# SRAM-circuit-for-a-state-machine
